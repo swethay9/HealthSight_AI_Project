@@ -84,7 +84,8 @@ HealthSight_AI_Project/
 - Visualizes feature impact on predictions
 
 ### ✅ Power BI Dashboard  
-[![Dashboard Screenshot](images/Dashboard.png)](https://bit.ly/HealthSightDashboard)
+![Dashboard](https://github.com/user-attachments/assets/ad0f7b5a-5cfb-4561-827c-b87414ccbded)
+
 
 - 📈 Vitals Line Chart (glucose, heart rate, sleep)
 - 📊 Risk Flag Bar Chart (red = high risk, blue = normal)
